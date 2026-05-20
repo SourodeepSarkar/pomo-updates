@@ -1,7 +1,7 @@
 Copyright © 2026 Sourodeep Sarkar.
 All rights reserved.
 
-Adiutor is proprietary software.
+pomo is proprietary software.
 
 No part of this software, associated assets, binaries,
 designs, branding, or update infrastructure may be copied,
