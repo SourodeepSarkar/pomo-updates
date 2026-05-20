@@ -9,7 +9,7 @@ http://sparkle-project.org/files/sparkletestcast.xml
 <item>
 <title>Version 1.0.0</title>
 <link>https://sourodeepsarkar.github.io/pomo-help/</link>
-<sparkle:version>1.0</sparkle:version>
+<sparkle:version>1.0.0</sparkle:version>
 <description>
 <![CDATA[
 <h2>What's New in v1.0.0</h2>
@@ -30,7 +30,7 @@ http://sparkle-project.org/files/sparkletestcast.xml
 ]]>
 </description>
 <pubDate>Sat, 20 May 2026 15:34:00 +0530</pubDate>
-<enclosure url="https://github.com/SourodeepSarkar/pomo/releases/download/v1.0.0/pomo.v1.0.0.zip" length="3156748" type="application/octet-stream" sparkle:edSignature="TiCyzdCTBjZBEwBxDc44A3qi4VDkQ4s8kboQwArxaILuAOtm24Dlhy1gPaf2EIwrlkKK8H67GMe95wF4TZqyBA=="
+<enclosure url="https://github.com/SourodeepSarkar/pomo/releases/download/v1.0.0/pomo.v1.0.0.zip" length="3156773" type="application/octet-stream" sparkle:edSignature="G84/WmfDETD8j2eKgtZRu0tZ3WNNTaWXeileFzJhm+BUGC49+VdQDUNlph9wBkSi9/CSDs00xhiJlZX9eWq1AA=="
 />
 </item>
 </channel>
