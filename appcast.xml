@@ -1,0 +1,37 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>Adiutor Update</title>
+<link>
+http://sparkle-project.org/files/sparkletestcast.xml
+</link>
+<description>Most recent changes with links to updates.</description>
+<language>en</language>
+<item>
+<title>Version 1.1.1</title>
+<link>https://sourodeepsarkar.github.io/adiutor-help/</link>
+<sparkle:version>1.1.1</sparkle:version>
+<description>
+<![CDATA[
+<h2>What's New in v1.1.1</h2>
+
+<h3>‼️ Bug Fixes</h3>
+<ul>
+  <li>This update includes bug fixes and minor UI and performance improvements.</li>
+</ul>
+  
+<hr>
+
+<h3>Feedback</h3>
+<p>Feedback, bug reports, and suggestions are welcome through GitHub Issues.</p>
+
+<hr>
+
+<p>Thank you for trying Adiutor.</p>
+]]>
+</description>
+<pubDate>Sat, 20 May 2026 09:30:00 +0530</pubDate>
+<enclosure url="https://github.com/SourodeepSarkar/adiutor/releases/download/v1.1.1/Adiutor.v1.1.1.zip" length="3230262" type="application/octet-stream" sparkle:edSignature="c++Ajfe/fQfAwWqy9O6ribBgwad6J/Z3j9Xh0BNP3y+8dF77+zuR51qs8CRYRVn8jFvGIk4DtdG5Sc0US+/CDg=="
+/>
+</item>
+</channel>
+</rss>
