@@ -2,7 +2,7 @@
 <channel>
 <title>Pomo Update</title>
 <link>
-http://sparkle-project.org/files/sparkletestcast.xml
+https://sourodeepsarkar.github.io/pomo-updates/appcast.xml
 </link>
 <description>Most recent changes with links to updates.</description>
 <language>en</language>
