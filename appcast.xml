@@ -1,6 +1,6 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 <channel>
-<title>Adiutor Update</title>
+<title>Pomo Update</title>
 <link>
 http://sparkle-project.org/files/sparkletestcast.xml
 </link>
@@ -8,11 +8,11 @@ http://sparkle-project.org/files/sparkletestcast.xml
 <language>en</language>
 <item>
 <title>Version 1.1.1</title>
-<link>https://sourodeepsarkar.github.io/adiutor-help/</link>
+<link>https://sourodeepsarkar.github.io/pomo-help/</link>
 <sparkle:version>1.1.1</sparkle:version>
 <description>
 <![CDATA[
-<h2>What's New in v1.1.1</h2>
+<h2>What's New in v1.0.0</h2>
 
 <h3>‼️ Bug Fixes</h3>
 <ul>
@@ -26,11 +26,11 @@ http://sparkle-project.org/files/sparkletestcast.xml
 
 <hr>
 
-<p>Thank you for trying Adiutor.</p>
+<p>Thank you for trying pomo.</p>
 ]]>
 </description>
-<pubDate>Sat, 20 May 2026 09:30:00 +0530</pubDate>
-<enclosure url="https://github.com/SourodeepSarkar/adiutor/releases/download/v1.1.1/Adiutor.v1.1.1.zip" length="3230262" type="application/octet-stream" sparkle:edSignature="c++Ajfe/fQfAwWqy9O6ribBgwad6J/Z3j9Xh0BNP3y+8dF77+zuR51qs8CRYRVn8jFvGIk4DtdG5Sc0US+/CDg=="
+<pubDate>Sat, 20 May 2026 15:34:00 +0530</pubDate>
+<enclosure url="https://github.com/SourodeepSarkar/pomo/releases/download/v1.0.0/pomo.v1.0.0.zip" length="3156748" type="application/octet-stream" sparkle:edSignature="TiCyzdCTBjZBEwBxDc44A3qi4VDkQ4s8kboQwArxaILuAOtm24Dlhy1gPaf2EIwrlkKK8H67GMe95wF4TZqyBA=="
 />
 </item>
 </channel>
